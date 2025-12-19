@@ -7,3 +7,4 @@ faiss-cpu
 streamlit
 tavily-python
 langchain_google_genai
+langchain-tavily
